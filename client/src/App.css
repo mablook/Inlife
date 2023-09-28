@@ -1,0 +1,15 @@
+.App{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.Search{
+  font-weight: 700;
+  padding: 50px 0px 10px 0px;
+}
+
+.Form{
+  width: 400px;
+  margin-top: 10px;
+}
